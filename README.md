@@ -1,2 +1,2 @@
-# react-app-git-workflow
+# rails-ci
 Rails CI
